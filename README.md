@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=santiago9913)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago9913&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Santiago9913/Santiago9913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
