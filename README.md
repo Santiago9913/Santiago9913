@@ -1,22 +1,66 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=santiago9913&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago9913&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Profile README for github.com/Santiago9913 -->
 
+<h1 align="center">
+  Hey, I’m Santiago Fajardo 👋
+  <a href="https://github.com/nubank" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/nubank/820AD1"
+      alt="Nubank"
+      height="28"
+      style="vertical-align: middle; margin-left: 10px;"
+    />
+  </a>
+</h1>
 
-**Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago9913/)
+<p align="center">
+  Software Engineer • Colombia 🇨🇴 • <a href="https://github.com/nubank"><b>Nubank</b></a>
+</p>
 
-<!--
-**Santiago9913/Santiago9913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/santiago9913">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nubank">
+    <img alt="Nubank" src="https://img.shields.io/badge/Nubank-Official%20Org-820AD1?logo=nubank&logoColor=white" />
+  </a>
+  <a href="https://github.com/Santiago9913?tab=repositories">
+    <img alt="Repos" src="https://img.shields.io/badge/GitHub-Repositories-black?logo=github&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+- I build backend + full-stack products, focusing on clean architecture, maintainable code, and pragmatic delivery.
+- Interests: APIs, distributed systems, automation, and developer experience.
+
+## 🧰 Tech I use
+**Languages:** TypeScript, Java, Kotlin  
+**Backend:** Node.js, REST APIs, SQL, testing  
+**Frontend:** React / Next.js  
+**Tools:** Git, CI/CD, Docker, Cloud (AWS/GCP)
+
+---
+
+## 📌 Featured work (highlights)
+- **Parciales-Cardoso** — academic repository with MEL exams/resources.  
+- **BackVynils** — TypeScript backend project (fork).  
+- **MISW4203-Moviles** — Kotlin mobile coursework/project.
+
+---
+
+## 📈 GitHub stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Santiago9913&show_icons=true&hide_title=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Santiago9913&layout=compact" />
+</p>
+
+---
+
+## 🤝 Let’s connect
+- LinkedIn: https://www.linkedin.com/in/santiago9913  
+- Nubank (official org): https://github.com/nubank
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+</p>
